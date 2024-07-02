@@ -10,5 +10,6 @@ async-trait.workspace=true
 lexpr.workspace = true
 thiserror.workspace = true
 smol.workspace = true
+pin-project-lite.workspace = true
 [lints]
 workspace = true

@@ -57,3 +57,4 @@ anyhow = "1.0.86"
 thiserror = "1.0.61"
 async-trait = "0.1.80"
 lisper-epc = { path = "./crates/epc", version = "0.1.0" }
+pin-project-lite = "0.2"

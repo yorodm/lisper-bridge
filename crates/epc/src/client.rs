@@ -1,3 +1,2 @@
-pub struct EpcClient{
-
-}
+#[derive(Debug)]
+pub struct EpcClient {}
