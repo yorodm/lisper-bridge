@@ -1,0 +1,10 @@
+[package]
+name = "lisper-bridge"
+version = "0.1.0"
+authors.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+seahorse = "2.2.0"
+anyhow.workspace = true
